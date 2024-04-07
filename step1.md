@@ -1,6 +1,4 @@
-# Internet TV Database Schema
-
-## Tables and Descriptions
+# テーブル設計
 
 ### `channels`
 | Field | Type         | Null | Key | Default | Extra          |
